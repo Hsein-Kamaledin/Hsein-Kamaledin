@@ -12,19 +12,14 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)])
-[![website](./img/globe-dark.svg)]()
-&nbsp;&nbsp;
+
 [![website](./img/youtube-light.svg)]()
-[![website](./img/youtube-dark.svg)])
-&nbsp;&nbsp;
+
 [![website](./img/twitter-light.svg)]()
-[![website](./img/twitter-dark.svg)]()
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)]()
-[![website](./img/linkedin-dark.svg)]()
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)]()
-[![website](./img/instagram-dark.svg)]()
+
 
 ### Languages and Tools:
 
@@ -34,9 +29,6 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 
-
-<br />
-<br />
 
 ---
 
